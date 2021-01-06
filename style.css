@@ -66,7 +66,7 @@ img {
     margin-top: -60px;
 }
 
-#hello {
+#profie-image-two {
     margin: -30px 14px;
 }
 
@@ -103,7 +103,7 @@ h2{
     color: #F59860;
 }
 
-.project-image-containar {
+#project-image-containar {
     margin-left: 150px;
     margin-top: 60px;
 }
@@ -202,7 +202,7 @@ footer {
     height: 550px;
 }
 
-.work-inquiry {
+#work-inquiry {
     background-image: url(images/inquiry.png);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -215,11 +215,11 @@ footer {
 
 #footer-heading {
     color: white;
-    padding: 10%;
+    padding: 12% 10%;
     display: inline-block;
 }
 
-.work-inquiry a {
+#work-inquiry a {
     float: right;
     font-weight: 500;
     text-decoration: none;
@@ -228,10 +228,10 @@ footer {
     font-size: 13px;
     color: white;
     border-radius: 5px;
-    margin: 10% 8%;
+    margin: 11% 8%;
 }
 
-.email h3 {
+#email h3 {
     font-family: 'Bebas Neue';
     font-size: 24px;
     text-align: center;
@@ -239,7 +239,7 @@ footer {
     color: #4e4e4e;
 }
 
-.email h2 {
+#email h2 {
     text-align: center;
     font-size: 28px;
     font-family: 'Poppins';
@@ -247,17 +247,17 @@ footer {
     color: #442ab9;
 }
 
-.social-wrapper {
+#social-wrapper {
     margin-top: 7%;
 }
 
-.social-icons {
+#social-icons {
     width: 225px;
     margin: auto;
     padding: 3% 0%;
 }
 
-.social-icons li {
+#social-icons li {
     float: left;
     margin-right: 25px;
     width: 35px;
