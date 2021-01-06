@@ -1,0 +1,206 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    margin-right: 8%;
+    margin-top: 2%;
+    overflow: hidden;
+}
+
+nav li{
+    list-style: none;
+    float: right;
+}
+
+nav li a {
+    text-decoration: none;
+    padding: 0px 20px;
+    color: #3C3C3C;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+section {
+    height: 450px;
+}
+
+.half-width {
+    width: 33%;
+    float: left;
+    margin: 8% 7%;
+    padding: 0% 1%;
+}
+
+
+h1 {
+    font-family: bebas neue;
+    font-size: 55px;
+    font-weight: 100;
+    margin: -10px 0px 0px 0px;
+    color: #585DDF;
+}
+
+#colored-text {
+    color: #F76A61;
+}
+
+p {
+    color: darkslategray;
+    padding-bottom: 12px;
+}
+
+.half-width a {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #595FE1, purple);
+    color: white;
+    font-size: 13px;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+
+img {
+    width: 100%;
+    margin-top: -60px;
+}
+
+#hello {
+    margin: -30px 14px;
+}
+
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    margin: -10px 0px 0px 0px;
+    color: #4732C0;
+}
+
+.about {
+    margin: 153px 104px;
+}
+
+.about a i {
+    padding-right: 10px;
+    font-size: 11px;
+}
+
+#project-area {
+    background-color: #e5ebec59;
+    margin-top: 225px;
+    height: 650px;
+}
+
+.project-section-heading {
+    text-align: center;
+    margin-top: 250px;
+    padding-top: 80px;
+}
+
+#colored-text-two {
+    color: #F59860;
+}
+
+.project-image-containar {
+    margin-left: 150px;
+    margin-top: 60px;
+}
+
+.project-image {
+    background-color: white;
+    width: 26%;
+    height: 330px;
+    float: left;
+    margin-right: 35px;
+    box-shadow: 0px 0px 10px 1px #8080804d;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.project-image  img {
+    width: 100%;
+    margin-top: 0px;
+}
+
+.project-image h3 {
+    color: #43414c;
+}
+
+.service-top-part {
+    width: 563px;
+    margin: auto;
+}
+
+#service-heading {
+    font-family: 'Bebas Neue';
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+    color: #585DDF;
+}
+
+#service-para {
+    color: dimgray;
+    padding-bottom: 0px;
+}
+
+.service-containar {
+    margin-top: 70px;
+    padding-bottom: 130px;
+}
+
+.services {
+    width: 250px;
+    display: inline-block;
+    border: 2px solid #F6A660;
+    border-radius: 5px;
+    height: 255px;
+    padding: 0px 15px;
+}
+
+.services img {
+    width: 100px;
+    margin: 0px 72px;
+}
+
+.services h3 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 16px;
+    color: #F6A660;
+}
+
+.services p {
+    text-align: center;
+    font-size: 13px;
+    color: #353535;
+}
+
+.services .left-side {
+    float: left;
+}
+
+.middle-side {
+    width: 250px;
+    margin-left: 13px;
+}
+
+.right-side {
+    width: 250px;
+    margin-left: 8px;
+}
+
+.left-side {
+    float: left;
+    margin-left: 18%;
+}
+
+
+
+
+
+
+
+
