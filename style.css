@@ -4,9 +4,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-nav{
+nav {
     margin-right: 8%;
-    margin-top: 2%;
+    margin-top: 1%;
     overflow: hidden;
 }
 
@@ -57,7 +57,7 @@ p {
     background-image: linear-gradient(45deg, #595FE1, purple);
     color: white;
     font-size: 13px;
-    padding: 8px 30px;
+    padding: 12px 30px;
     border-radius: 5px;
 }
 
@@ -154,10 +154,11 @@ h2{
 .services {
     width: 250px;
     display: inline-block;
-    border: 2px solid #F6A660;
+    border: 2px solid rgb(246, 166, 96);
     border-radius: 5px;
     height: 255px;
     padding: 0px 15px;
+    box-shadow: 4px 4px 7px 0px #80808078;
 }
 
 .services img {
@@ -197,7 +198,71 @@ h2{
     margin-left: 18%;
 }
 
+footer {
+    height: 550px;
+}
 
+.work-inquiry {
+    background-image: url(images/inquiry.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 40%;
+    width: 800px;
+    margin: auto;
+    margin-top: 260px;
+    background-position: center;
+}
+
+#footer-heading {
+    color: white;
+    padding: 10%;
+    display: inline-block;
+}
+
+.work-inquiry a {
+    float: right;
+    font-weight: 500;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #f9433d, #f3a26a);
+    padding: 12px 23px;
+    font-size: 13px;
+    color: white;
+    border-radius: 5px;
+    margin: 10% 8%;
+}
+
+.email h3 {
+    font-family: 'Bebas Neue';
+    font-size: 24px;
+    text-align: center;
+    font-weight: 400;
+    color: #4e4e4e;
+}
+
+.email h2 {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color: #442ab9;
+}
+
+.social-wrapper {
+    margin-top: 7%;
+}
+
+.social-icons {
+    width: 225px;
+    margin: auto;
+    padding: 3% 0%;
+}
+
+.social-icons li {
+    float: left;
+    margin-right: 25px;
+    width: 35px;
+    list-style: none;
+}
 
 
 
